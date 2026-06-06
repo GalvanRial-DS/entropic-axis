@@ -1,0 +1,5 @@
+Dataset,Model,N,β (Motion),SE (Motion),p (Motion),p (Condition)
+Anaesthesia,MixedLM,68,-0.0479,0.0646,0.4579,0.0891
+Modafinil,OLS,24,0.462,0.3058,0.1457,0.0786
+DMT,MixedLM,28,-0.0243,0.3456,0.9439,0.0804
+Schizophrenia,OLS,100,-0.2203,0.1033,0.0354,< 0.001

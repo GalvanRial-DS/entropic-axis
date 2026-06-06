@@ -1,0 +1,22 @@
+# Python / Jupyter checkpoints
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+.venv/
+venv/
+env/
+
+# MATLAB / Temporary files
+*.asv
+*.m~
+.DS_Store
+Thumbs.db
+*.log
+execution_log_*.txt
+
+# Exclude heavy raw fMRI data (NIfTI)
+*.nii.gz
+!scripts/01_parcelling/masks/1000_Schaefer/1000_Schaefer.nii
+text.md
+results/sample_entropy/
