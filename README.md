@@ -115,6 +115,10 @@ This repository includes derived NIfTI atlas masks (in `scripts/01_parcelling/ma
 
 ---
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contact
 
 For questions, issues, or collaborations regarding this repository and the manuscript, please contact:
