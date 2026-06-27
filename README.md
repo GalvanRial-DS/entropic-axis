@@ -53,6 +53,8 @@ Add these directories to your MATLAB path (`pathtool` or `addpath`) before execu
 
 ## DEMO // Reproducing Figures & Statistics
 
+**Expected output:** The statistical scripts will print model summaries directly to your console. The visualization scripts will silently generate and save high-resolution `.png` images in the `results/paper_figures/` directory.
+**Expected run time:** Running any of the individual scripts below takes less than 5 minutes on a normal desktop computer.
 To reproduce the main results of the manuscript:
 
 1. **Local and Global Statistical Models (Shared Entropic Axis):**
