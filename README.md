@@ -51,7 +51,7 @@ Add these directories to your MATLAB path (`pathtool` or `addpath`) before execu
 
 ---
 
-## Reproducing Figures & Statistics
+## DEMO // Reproducing Figures & Statistics
 
 To reproduce the main results of the manuscript:
 
